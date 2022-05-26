@@ -1,0 +1,12 @@
+{
+    "interface": {
+        "name": "Gigabitethernet 0/0/1",
+        "description": "to JBias-CR1 Gi1/0/2",
+        "ipv4": {
+            "address": {
+                "ip": "192.168.1.1",
+                "netmaks": "255.255.255.0"
+            }
+        }
+    }
+}
